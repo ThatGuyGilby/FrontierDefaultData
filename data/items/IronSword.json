@@ -1,6 +1,6 @@
 {
   "displayName": "Iron Sword",
-  "texturePath": "data\textures\\items\\iron_sword.png",
+  "texturePath": "data\\textures\\items\\iron_sword.png",
   "maxStackSize": 1,
   "maxDurability": 251
 }
