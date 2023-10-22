@@ -1,0 +1,6 @@
+{
+  "displayName": "Diamond Sword",
+  "texturePath": "data\textures\items\diamond_sword.png",
+  "maxStackSize": 1,
+  "maxDurability": 1561
+}
