@@ -1,6 +1,6 @@
 {
   "displayName": "Golden Sword",
-  "texturePath": "data\textures\items\golden_sword.png",
+  "texturePath": "data\textures\\items\\golden_sword.png",
   "maxStackSize": 1,
   "maxDurability": 32
 }
